@@ -2,7 +2,7 @@
   "name": "to-do",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jordindibbs.github.io/To-Do-App/",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
